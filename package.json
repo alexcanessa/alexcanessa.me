@@ -1,0 +1,20 @@
+{
+  "name": "alexcanessa.me",
+  "version": "0.1.0",
+  "author": {
+    "name": "Alessandro Canessa",
+    "email": "canessa.alex@gmail.com",
+    "web": "http://alexcanessa.me"
+  },
+  "description": "Alex Canessa's website",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alexcanessa/alexcanessa.me.git"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
